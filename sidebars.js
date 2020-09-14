@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3', 'doc4'],
-    Features: ['mdx'],
+    Operate: ['operate-deployment-guide/index','operate-deployment-guide/authentication',
+              'operate-deployment-guide/configuration','operate-deployment-guide/data-retention',
+              'operate-deployment-guide/importer-and-archiver','operate-deployment-guide/schema-and-migration'],
   },
 };

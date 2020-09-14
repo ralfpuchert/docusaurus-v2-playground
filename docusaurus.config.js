@@ -40,12 +40,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Operate Deployment Guide',
+              to: 'docs/operate-deployment-guide',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Operate User Guide',
+              to: 'docs/operate-user-guide',
             },
           ],
         },
