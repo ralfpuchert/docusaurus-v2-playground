@@ -1,0 +1,16 @@
+{
+  "version-operate-0.25.0-sidebars/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Operate Deployment Guide",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-operate-0.25.0/schema-and-migration"
+        }
+      ]
+    }
+  ]
+}
+

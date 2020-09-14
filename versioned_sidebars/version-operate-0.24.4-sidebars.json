@@ -1,0 +1,17 @@
+{
+  "version-operate-0.24.4-sidebars/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Operate Deployment Guide",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-operate-0.24.4/index"
+        }
+      ]
+    }
+  ]
+}
+
+
